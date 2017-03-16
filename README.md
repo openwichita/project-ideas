@@ -1,19 +1,13 @@
 # Open Wichita Project Ideas
 
-Check out what other members are thinking about and chime in to the discussion!
+## [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/openwichita/project-ideas/issues)
+Check out what other members are thinking about and chime in to the discussion! Feel free to ask questions, add comments, and give a :+1: of approval if you find one you like.
 
-#### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/openwichita/project-ideas/issues)
+## [:star2: Share your idea with us! :star2:](https://github.com/openwichita/project-ideas/issues/new)
+Want to start an Open Wichita project?
 
-
-Want to start an Open Wichita project? 
-
-#### [:star2: Share your idea with us! :star2:](https://github.com/openwichita/project-ideas/issues/new)
-
-
+## [:floppy_disk: View Repositories for our Active Projects :floppy_disk:](http://www.github.com/openwichita)
 Looking to jump into an existing project?
-
-#### [:floppy_disk: View Repositories for our Active Projects :floppy_disk:](http://www.github.com/openwichita)
-
 
 ## About Open Wichita
 
